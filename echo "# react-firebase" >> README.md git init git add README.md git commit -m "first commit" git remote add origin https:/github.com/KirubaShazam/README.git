@@ -1,0 +1,6 @@
+echo "# react-firebase" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/KirubaShazam/react-firebase.git
+git push -u origin master
